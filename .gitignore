@@ -1,0 +1,4 @@
+.scon*
+config.log
+python/lsst/qserv/*/version.py
+ups/*.cfgc

@@ -1,0 +1,5 @@
+setupRequired(qserv)
+setupRequired(partition)
+setupRequired(qserv_testdata)
+
+
